@@ -10,7 +10,6 @@ The project will:
     * Concatenate two strings (using pointers)
     * Find string length (using recursion)
 3. Use separate functions for each task.
-4. Avoid using library string functions like strlen(), strcat().etc.
 */
 
 #include <stdio.h>
